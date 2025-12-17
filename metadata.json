@@ -1,0 +1,7 @@
+{
+  "name": "Provador Virtual de Acessórios",
+  "description": "Um aplicativo que permite aos usuários experimentar virtualmente diferentes acessórios, como anéis, brincos, colares e pulseiras, usando a tecnologia Gemini para sobrepor os itens em uma foto enviada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
